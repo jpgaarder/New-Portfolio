@@ -1,0 +1,28 @@
+h2{
+	font-family: 'Montserrat', serif;
+	text-transform: uppercase;
+	font-size: 28px;
+    color: #444;
+}
+#wrapper {
+   
+	min-height: 100%;
+	margin: 0 auto -125px;
+	width: 1040px;
+	
+}
+main {
+    /* background-image: url(../assets/images/Crane.JPG); */
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.image-grid {
+	float: left;
+	position: relative;
+}
+ .portfolio-image {
+	width: 250px;
+	height: 250px;
+	padding: 15px 15px;
+}

@@ -11,18 +11,20 @@ h2{
 	width: 1040px;
 	
 }
-main {
-    /* background-image: url(../assets/images/Crane.JPG); */
+/* main {
+     background-image: url(../assets/images/Crane.JPG); 
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
-}
+}  */
 .image-grid {
 	float: left;
-	position: relative;
+    position: relative;
+    padding: 10px;
+    
 }
  .portfolio-image {
-	width: 250px;
-	height: 250px;
+	width: 150px;
+	height: 150px;
 	padding: 15px 15px;
 }
